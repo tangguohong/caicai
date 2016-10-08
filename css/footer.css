@@ -1,0 +1,4 @@
+body{padding-bottom:2.5rem;}
+.footer{height: 1.4rem;position:fixed;bottom:0;background: #f8f8f8;padding-top: 0.325rem;width:100%;}
+.footer li{float: left;text-align: center;width:25%;font-size: 0.625rem;}
+.footer a{display: block;font-size: 0.45rem;}

@@ -1,0 +1,11 @@
+h1,h2,h3,h4,p,ul,dl,dd,dt,body,li{margin:0;padding:0;}
+a{text-decoration:none;color: #666;}
+body{font-family: "微软雅黑";font-size: 0.5rem;color: #666;}
+a{text-decoration:none;}
+body{font-family: "微软雅黑";font-size: 0.5rem;color: #666;background-color: #fff;}
+li{list-style:none;}
+img{border:0;}
+.fl{float:left;}
+.fr{float:right;}
+.clearfix:after{content:"\200B";clear:both;height:0;display:block;}
+.clearfix{*zoom:1;} 

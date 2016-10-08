@@ -1,0 +1,68 @@
+.banner{width: 100%;height:7.0rem;background: url(../images/nav_picture.jpg) no-repeat;background-size: 100% 100%;}
+.ind_wrap{width: 90%;margin: 0 auto;}
+.ind_search{width: 100%;position: relative;overflow: hidden;}
+.ind_search input{width: 78%;height: 1.5rem;padding: 0 1.5rem;font-size: 0.5rem;border: 1px solid #ccc;border-radius: 0.25rem;margin:0.5rem 0;outline: none;pa}
+.ind_search .search_b{position: absolute;top:0.9rem;left:0.5rem;font-size: 0.75rem;color: #ccc;}
+.ind_title{height: 1rem;border-bottom:2px solid #dbdbdb;line-height: 1rem;font-size: 0.65rem}
+.ind_box{margin-top:0.25rem;}
+.ind_goods{width: 32%;border: 1px solid #ccc;margin-bottom: 0.25rem}
+.goods_img{width: 3.25rem;height: 3.25rem;margin: 0.125rem auto;}
+.goods_img img{width: 3.25rem;height: 3.25rem;}
+.goods_name{text-align: center;font-size: 0.5rem;color: #000;}
+.goods_price{font-size: 0.45rem;color: #ff6800;}
+.goods_choice span{display: inline-block;}
+.goods_price{margin: 0.25rem 0 0 0.25rem}
+.goods_buy{margin-right: 0.25rem}
+.goods_buy img{width: 1rem;height: 1rem}
+.ind_mgr{margin-right: 2%;}
+.ind_shopbuy{position: fixed;bottom: 35%;width: 100%;background: #fff;box-shadow: 0 -0.05rem 0.05rem rgba(0,0,0,.2);}
+.shopBuy_img{width: 30%;}
+.shopBuy_lei{margin: 0.5rem 0;}
+.shopBuy_img img{width: 4rem;height: 4rem;display: block;margin: 0 auto;}
+.shopBuy_price{color: #ff6800;font-size: 0.55rem}
+.shopBuy_name{margin-top: 0.75rem;font-size: 0.75rem}
+.shopBuy_number{padding: 0.25rem 0 0.75rem;}
+.shopBuy_number span{display: inline-block;font-size: 0.75rem;margin-right: 0.5rem}
+.shopBuy_num{margin-left: 1.5rem}
+.shopBuy_number input,.shopBuy_numM,.shopBuy_numL{height: 1rem;width: 1rem;display: inline-block;text-align: center;border:1px solid #ccc;line-height: 1rem;font-size: 0.65rem}
+.shopBuy_number input{outline: none;vertical-align: middle;padding: 0;}
+.ind_goshop,.ind_return{width: 50%;outline: none;border: none;height: 1.5rem;background: #ff803a;color: #fff;font-size: 0.75rem}
+.ind_goshop{background: #ffa124;}
+
+.ind_more{text-align: center;}
+.ind_more a{display: inline-block;border: 1px solid #ccc;border-radius: 0.5rem;padding: 0.15rem 0.75rem}
+.nav{width: 100%;height: 1.25rem;line-height: 1.25rem;background: #000;}
+.nav_logo{color: #fff;display: inline-block;font-size: 0.55rem;margin-left: 0.5rem}
+.nav_return{color: #fff;font-size: 0.65rem;margin-left: 0.25rem;}
+/*footer start*/
+body{padding-bottom:2.5rem;}
+.footer{height: 1.4rem;position:fixed;bottom:0;background: #f8f8f8;padding-top: 0.325rem;width:100%;}
+.footer li{float: left;text-align: center;width:25%;font-size: 0.625rem;}
+.footer a{display: block;font-size: 0.45rem;}
+/*footer end*/
+.pershead{background: url(../images/pers-1.jpg) no-repeat;height:5.75rem;background-size: 100%;text-align: center;padding-top:0.75rem;}
+.pershead img{display:block;width:3.625rem;height:3.625rem;margin:0 auto;border-radius: 50%;padding-bottom: 0.25rem;}
+.pershead p{color:#fff;}
+.persbody{border-top:0.5rem solid #EEEFF1;border-bottom: 0.75rem solid #EEEFF1;}
+.persbody .fl,.persbody .fr{width:50%;text-align: center;padding:0.5rem 0;}
+.persbody .fl span,.persbody .fr span{color:#B25B79;font-size:1rem;padding-bottom: 0.25rem;display: block;}
+.persbody .fl p,.persbody .fr p{color:#868686;}
+.persfoot li{height:1.5rem;line-height: 1.5rem;color:#868686;padding-left: 1rem;border-bottom:0.075rem solid #EEEFF1;}
+.persfoot li a{color:#868686;display: block;}
+.persfoot .icon{display: inline-block;width:1rem;text-align: center;color:#B25B79;}
+.persfoot .icon-angle-right{width:1rem;text-align: center;color:#B25B79;padding-left:10.425rem;font-size:0.75rem;}
+/*comprob strat*/
+.comphead h2,.compbody h2{background-color: #F1F1F1;padding:1rem 0 0.75rem 0.75rem;color:#9C9B9C;font-weight: normal;}
+.comphead ul li,.compbody ul li{border-bottom: 3px solid #F6F6F6;height:1.75rem;line-height: 1.75rem;padding-left: 0.75rem;}
+.comphead span,.compbody span,.compreturn span{display: inline-block;width:1rem;color:#B25B79;text-align: center;}
+.compreturn{padding:0.5rem;}
+/*comprob end*/
+/*personal info start*/
+.personal-list input{height:1rem; border:0.025rem solid #ddd; width:11rem; padding-left:0.25rem;}
+.personal-list label{width:3.1rem; margin-left:0.5rem; line-height: 1rem;}
+.position-rela{position:relative;}
+.position-rela .Validform_checktip{position:absolute; right:0.5rem; top:0.15rem; font-size:0.4rem; line-height:0.75rem;}
+.per-marginlist{margin-bottom:1rem;}
+.per-submit input{width:6rem; height:1.4rem; background-color:#F08C00; margin:0 auto; border-radius:0.125rem; color:#fff; display:block; font-size:0.6rem;}
+.person-return{float:right;}
+/*personal info end*/

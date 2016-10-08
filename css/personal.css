@@ -1,0 +1,26 @@
+.pershead{background: url(../images/pers-1.jpg) no-repeat;height:5.75rem;background-size: 100%;text-align: center;padding-top:0.75rem;}
+.pershead img{display:block;width:3.625rem;height:3.625rem;margin:0 auto;border-radius: 50%;padding-bottom: 0.25rem;}
+.pershead p{color:#fff;}
+.persbody{border-top:0.5rem solid #EEEFF1;border-bottom: 0.75rem solid #EEEFF1;}
+.persbody .fl,.persbody .fr{width:50%;text-align: center;padding:0.5rem 0;}
+.persbody .fl span,.persbody .fr span{color:#B25B79;font-size:1rem;padding-bottom: 0.25rem;display: block;}
+.persbody .fl p,.persbody .fr p{color:#868686;}
+.persfoot li{height:1.5rem;line-height: 1.5rem;color:#868686;padding-left: 1rem;border-bottom:0.075rem solid #EEEFF1;}
+.persfoot li a{color:#868686;display: block;}
+.persfoot .icon{display: inline-block;width:1rem;text-align: center;color:#B25B79;}
+.persfoot .icon-angle-right{width:1rem;text-align: center;color:#B25B79;padding-left:10.425rem;font-size:0.75rem;}
+/*comprob strat*/
+.comphead h2,.compbody h2{background-color: #F1F1F1;padding:1rem 0 0.75rem 0.75rem;color:#9C9B9C;font-weight: normal;}
+.comphead ul li,.compbody ul li{border-bottom: 3px solid #F6F6F6;height:1.75rem;line-height: 1.75rem;padding-left: 0.75rem;}
+.comphead span,.compbody span,.compreturn span{display: inline-block;width:1rem;color:#B25B79;text-align: center;}
+.compreturn{padding:0.5rem;}
+/*comprob end*/
+/*personal info start*/
+.personal-list input{height:1rem; border:0.025rem solid #ddd; width:11rem; padding-left:0.25rem;}
+.personal-list label{width:3.1rem; margin-left:0.5rem; line-height: 1rem;}
+.position-rela{position:relative;}
+.position-rela .Validform_checktip{position:absolute; right:0.5rem; top:0.15rem; font-size:0.4rem; line-height:0.75rem;}
+.per-marginlist{margin-bottom:1rem;}
+.per-submit input{width:6rem; height:1.4rem; background-color:#F08C00; margin:0 auto; border-radius:0.125rem; color:#fff; display:block; font-size:0.6rem;}
+.person-return{float:right;}
+/*personal info end*/
